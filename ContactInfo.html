@@ -20,6 +20,19 @@
     also leave your e-Mail down below:
     <p></p>
     <input type="text" id="email">
-    <button>send E-Mail</button>
+    <button onclick="verify()">send E-Mail</button>
+    <p></p>
+    <div id="messege"></div>
 </body>
+<script>
+    function verify(){
+        let e = document.getElementById('email').value;
+        let m = document.getElementById('messege');
+        if (e.includes('@')) {
+            m.innerHTML = 'Your E-Mail is valid. You will reach you out';
+        } else {
+            m.innerHTML = '!!Check out your email again, "@" id missing!!';   
+        }
+    }
+</script>
 </html>
