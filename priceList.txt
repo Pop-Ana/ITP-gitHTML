@@ -1,0 +1,15 @@
+noodle soup 3 euro
+hamburger 4 euro
+chocolate cake 1,50 euro
+garlic soup 3 euro
+pizza 2 euro/6 euro
+carrot cake 1,70 euro
+noodles 5 euro
+hot dogs 2,20  euro
+strawberry cake 1,60 euro
+lasagna 5,50 euro
+fried chicken wings 5,30 euro
+tiramisu 2 euro
+chicken with rice 6,30 euro
+fries 2 euro
+muffins 1 euro
