@@ -1,0 +1,4 @@
+vegan pizza 2,10 euro
+salad 1,70 euro
+noodles 3 euro
+vegan apple pie 1,50 euro
